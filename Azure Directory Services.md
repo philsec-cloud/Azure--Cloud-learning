@@ -1,6 +1,6 @@
 # Microsoft Entra ID and Domain Services: Implementation Notes
 
-Today, I revisited the **Azure Directory Services** module on [Microsoft Learn](https://learn.microsoft.com), reinforcing my understanding of Microsoft Entra ID and Microsoft Entra Domain Services. This markdown summarizes practical implementation considerations and use cases, building on my prior learning. I completed the module in about **6 minutes**, earning **100 XP**. Below are my key takeaways from this exploration.
+Today, I revisited the **Azure Directory Services** module on [Microsoft Learn](https://learn.microsoft.com), reinforcing my understanding of Microsoft Entra ID and Microsoft Entra Domain Services. This is a summary of practical implementation considerations and use cases, building on my prior learning. Below are my key takeaways from this exploration.
 
 ## Overview of Microsoft Entra ID and Domain Services
 
