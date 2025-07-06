@@ -52,11 +52,6 @@ Microsoft Entra Domain Services simplifies legacy application deployment in the 
 - **Synchronization**: One-way sync from Microsoft Entra ID to the managed domain ensures consistent credentials but requires careful planning for resource creation, as changes in the managed domain do not sync back.
 - **Networking**: Place the managed domain in a virtual network (VNet) and configure DNS settings to ensure connectivity for domain-joined devices.
 
-## Challenges Faced
-
-- **Hybrid Configuration**: Setting up Microsoft Entra Connect required understanding synchronization options (e.g., password hash vs. pass-through authentication) and their impact on user experience.
-- **Legacy Application Integration**: Configuring Microsoft Entra Domain Services for LDAP-based applications was challenging due to specific networking and security group requirements.
-- **Policy Management**: Balancing Conditional Access policies to avoid overly restrictive settings while maintaining security took trial and error.
 
 ## Key Insights
 
